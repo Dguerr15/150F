@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1749064178
+<REAPER_PROJECT 0.1 "7.35/win64" 1749063911
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -104,7 +104,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 3.98107170553497 -0.48 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -142,7 +142,7 @@
       CHANMODE 0
       GUID {846EDA82-AE87-49AE-8450-606B1D8D2C13}
       <SOURCE MP3
-        FILE "ProducerTagV1.mp3" 1
+        FILE "C:\Users\maria\Downloads\ProducerTagV1.mp3" 1
       >
     >
   >
