@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1749257513
+<REAPER_PROJECT 0.1 "7.35/win64" 1749257060
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 87.05791836697989
-  ZOOM 52.93487469541788 3635 0
-  VZOOMEX 6 474
+  CURSOR 0
+  ZOOM 20.44159415319524 818 0
+  VZOOMEX 6 619
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -112,7 +112,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -132,7 +132,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {D9BA322D-49E5-4074-AFBB-48BF5489A444}
       IID 1
       NAME ProducerTagV1.mp3
@@ -1220,7 +1220,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -1232,67 +1232,45 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 82.74425741740798
+      POSITION 28.17
       SNAPOFFS 0
-      LENGTH 3.05739229024925
+      LENGTH 1.33
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 1 1 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {88785DFF-CB24-4F2D-8748-0353B114F0DE}
-      IID 101
+      IGUID {1527AE91-33BE-4D47-939A-B2B649145DCF}
+      IID 5
       NAME vine-boom-sound-effect(chosic.com).mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {36955B75-24DD-442C-94FA-51B84E59B8FE}
+      GUID {E0D5BD1D-643E-443C-AD43-0BF4B8BA6EF7}
       <SOURCE MP3
         FILE "Media\vine-boom-sound-effect(chosic.com).mp3" 1
       >
     >
     <ITEM
-      POSITION 83.15237297924905
+      POSITION 28.5
       SNAPOFFS 0
-      LENGTH 3.05739229024925
+      LENGTH 1.33
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
+      FADEIN 1.1 0 1 1 1 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8ABDB58A-3CC7-4013-B1DA-04809A9D4DE8}
-      IID 101
+      IGUID {CF8280E9-4288-454D-AABE-859DD1CFCB8E}
+      IID 6
       NAME vine-boom-sound-effect(chosic.com).mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D2406BFF-8B0B-488E-9EA7-E95E54F38D31}
-      <SOURCE MP3
-        FILE "Media\vine-boom-sound-effect(chosic.com).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 83.59156276684843
-      SNAPOFFS 0
-      LENGTH 3.05739229024925
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {E4E18AF7-56CD-41B8-AA32-D84F7FB0FA18}
-      IID 101
-      NAME vine-boom-sound-effect(chosic.com).mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3D25FA6E-7814-455C-89F1-76C44189AF85}
+      GUID {8EB86559-A094-4A8C-80EA-BFA392E925F9}
       <SOURCE MP3
         FILE "Media\vine-boom-sound-effect(chosic.com).mp3" 1
       >
@@ -1371,28 +1349,6 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <ITEM
-      POSITION 27.76115796659897
-      SNAPOFFS 0
-      LENGTH 1.03801563385943
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C3208912-7298-4FC9-AF9E-18E58813D4F4}
-      IID 56
-      NAME cartoon-sliping-and-crash.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 1.30865282928499
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7037A13A-7969-4603-97DF-47B11B46C17F}
-      <SOURCE MP3
-        FILE "Media\cartoon-sliping-and-crash.mp3" 1
-      >
-    >
     <ITEM
       POSITION 45.85005594856175
       SNAPOFFS 0
@@ -1664,52 +1620,6 @@
       RECPASS 28
       <SOURCE WAVE
         FILE "Media\13-pussycat-250606_1736-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 75.43442176870748
-      SNAPOFFS 0
-      LENGTH 2.9102468909429
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4ADB72E2-5D30-49BC-81EF-A1F81C34E3A3}
-      IID 96
-      NAME 13-pussycat-250606_1745.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 0.86019269640425 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {84D7DFAE-2864-435E-AD40-E1AB04F9EE90}
-      RECPASS 29
-      <SOURCE WAVE
-        FILE "Media\13-pussycat-250606_1745.wav"
-      >
-    >
-    <ITEM
-      POSITION 80.32641723356009
-      SNAPOFFS 0
-      LENGTH 1.65006802721088
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3B9A6224-BAD8-4723-A097-A4489969D4E0}
-      IID 97
-      NAME 13-pussycat-250606_1745-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1D93022B-82BA-4777-93FB-C166967962DA}
-      RECPASS 30
-      <SOURCE WAVE
-        FILE "Media\13-pussycat-250606_1745-01.wav"
       >
     >
   >
