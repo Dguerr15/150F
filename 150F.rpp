@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1749260423
+<REAPER_PROJECT 0.1 "7.35/win64" 1749333330
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 155.35970885011437
-  ZOOM 6.80695487147024 0 0
+  CURSOR 0
+  ZOOM 52.93487469541807 1249 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -98,6 +98,54 @@
   >
   <PROJBAY
   >
+  <TRACK {29B03ECF-E092-4E27-AD13-7094939BA69F}
+    NAME "og video"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {29B03ECF-E092-4E27-AD13-7094939BA69F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 171.14848298507539
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF888747-B219-43C7-922D-5BF5C09E3DD1}
+      IID 2
+      NAME "Sequence #1(1).mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {119E7BF4-4DB1-4410-979C-FB7CCE7301F9}
+      <SOURCE VIDEO
+        FILE "Media\Sequence #1(1).mp4"
+      >
+    >
+  >
   <TRACK {55B15E73-B5C5-48A7-8913-38992BB8AC6C}
     NAME ProducerTagV1
     PEAKCOL 16576
@@ -160,7 +208,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -195,49 +243,26 @@
       >
     >
     <ITEM
-      POSITION 9.7289375
+      POSITION 9.75472916666667
       SNAPOFFS 0
-      LENGTH 3.219
+      LENGTH 24.851
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FE6E35F7-A2DE-43B9-A99D-181831FAA4C9}
-      IID 128
-      NAME "02-dog sounds-250606_1759.wav"
+      IGUID {A2FF139A-27CF-4DF0-85EF-1F0D25E70061}
+      IID 260
+      NAME "02-josh sounds-250607_1342.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {08FEC0F9-BE1E-4774-A433-BD8CBE7A5149}
-      RECPASS 32
+      GUID {2BB3F72E-9F4D-41AF-95A1-DA1390DAB6C1}
+      RECPASS 52
       <SOURCE WAVE
-        FILE "Media\02-dog sounds-250606_1759.wav"
-      >
-    >
-    <ITEM
-      POSITION 13.66585416666667
-      SNAPOFFS 0
-      LENGTH 9.64033333333333
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A34B2FBB-10F8-4A5B-A6D3-928E4E7A734E}
-      IID 130
-      NAME "02-dog sounds-250606_1801.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D231A949-D9FB-4A69-9162-363A0A7C14BC}
-      RECPASS 34
-      <SOURCE WAVE
-        FILE "Media\02-dog sounds-250606_1801.wav"
+        FILE "Media\02-josh sounds-250607_1342.wav"
       >
     >
     <ITEM
@@ -356,9 +381,9 @@
       >
     >
     <ITEM
-      POSITION 149.3651875
+      POSITION 151.14112058041619
       SNAPOFFS 0
-      LENGTH 8.403
+      LENGTH 6.6270669195838
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -369,7 +394,7 @@
       IID 172
       NAME "02-josh sounds-250606_1836.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 1.77593308041619
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {46712B99-BAB6-46FC-A198-C5A954ED1300}
@@ -379,74 +404,26 @@
       >
     >
     <ITEM
-      POSITION 159.4545625
+      POSITION 161.74591985463053
       SNAPOFFS 0
-      LENGTH 11.40010334690359
+      LENGTH 9.10874599227307
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {F4D0C311-3DDF-4406-8CDD-D97CF901EFF3}
       IID 175
       NAME "02-josh sounds-250606_1838-02.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 2.29135735463052
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {7A376C12-DEAF-4BA2-B0C2-000551D72BCE}
       RECPASS 48
       <SOURCE WAVE
         FILE "Media\02-josh sounds-250606_1838-02.wav"
-      >
-    >
-  >
-  <TRACK {29B03ECF-E092-4E27-AD13-7094939BA69F}
-    NAME "og video"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {29B03ECF-E092-4E27-AD13-7094939BA69F}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 171.14848298507539
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EF888747-B219-43C7-922D-5BF5C09E3DD1}
-      IID 2
-      NAME "Sequence #1(1).mp4"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {119E7BF4-4DB1-4410-979C-FB7CCE7301F9}
-      <SOURCE VIDEO
-        FILE "Media\Sequence #1(1).mp4"
       >
     >
   >
@@ -628,7 +605,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -706,6 +683,28 @@
       RECPASS 36
       <SOURCE WAVE
         FILE "Media\05-axe woosh-250606_1804.wav"
+      >
+    >
+    <ITEM
+      POSITION 93.20887275902207
+      SNAPOFFS 0
+      LENGTH 1.72995833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7A2C3FE6-E408-4FF1-8438-C8432694C0A6}
+      IID 308
+      NAME tada-fanfare-a-6313.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D3CB137-980C-4987-98D0-E96F08D627E4}
+      <SOURCE MP3
+        FILE "Media\tada-fanfare-a-6313.mp3" 1
       >
     >
   >
@@ -875,6 +874,75 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 14.50839365199209
+      SNAPOFFS 0
+      LENGTH 0.86076759083793
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F575FA97-05A4-4873-AFBC-D4AFE02371DF}
+      IID 12
+      NAME "04-pan hit-250606_1636.wav"
+      VOLPAN 0.758578 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1DBCEC3-608D-4D34-8B52-F0712B4254B6}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "Media\04-pan hit-250606_1636.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.33960370505229
+      SNAPOFFS 0
+      LENGTH 0.77226873498127
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17B2F854-2B05-4ECE-9AE7-B05ED72DC3AB}
+      IID 121
+      NAME "04-pan hit-250606_1636.wav"
+      VOLPAN 0.758578 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF59D5F3-60AE-4CE7-96F6-7C4AA0AC502A}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "Media\04-pan hit-250606_1636.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.03857579496688
+      SNAPOFFS 0
+      LENGTH 0.75872016068336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77FDB47A-B910-4E5B-A6F2-18A1D2D7BDEB}
+      IID 122
+      NAME "04-pan hit-250606_1636.wav"
+      VOLPAN 0.758578 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D5DCA77-95D6-442E-A459-C095E6D24987}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "Media\04-pan hit-250606_1636.wav"
+      >
+    >
     <ITEM
       POSITION 18.80491152597143
       SNAPOFFS 0
@@ -1151,6 +1219,116 @@
         FILE "Media\06-bullets-250606_1650.wav"
       >
     >
+    <ITEM
+      POSITION 154.2272471026867
+      SNAPOFFS 0
+      LENGTH 0.51006071436862
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E868DC1B-F9D8-43EA-9941-03090A5BA1B2}
+      IID 293
+      NAME heartbeat-01-brvhrtz-225058.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {491D4307-B759-40A5-B594-18040DE63D8A}
+      <SOURCE MP3
+        FILE "Media\heartbeat-01-brvhrtz-225058.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 154.6617432667438
+      SNAPOFFS 0
+      LENGTH 0.51006071436862
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B23F785-6DAD-4363-95A7-E3754DB30567}
+      IID 294
+      NAME heartbeat-01-brvhrtz-225058.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D400B58-6ECE-4566-B3A6-55C85080F4FF}
+      <SOURCE MP3
+        FILE "Media\heartbeat-01-brvhrtz-225058.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 155.09623943080081
+      SNAPOFFS 0
+      LENGTH 0.51006071436862
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {434CBB85-FF09-4704-BACC-CA2584883148}
+      IID 295
+      NAME heartbeat-01-brvhrtz-225058.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46D9D2DD-A694-4A57-AABB-AD7EA7EC212A}
+      <SOURCE MP3
+        FILE "Media\heartbeat-01-brvhrtz-225058.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 155.60630014516943
+      SNAPOFFS 0
+      LENGTH 0.51006071436862
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {11D145AE-06F2-48A4-8CCF-B17025B1A448}
+      IID 296
+      NAME heartbeat-01-brvhrtz-225058.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42BAC31C-108D-46B8-9075-23DFCB027266}
+      <SOURCE MP3
+        FILE "Media\heartbeat-01-brvhrtz-225058.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 156.04079630922652
+      SNAPOFFS 0
+      LENGTH 0.51006071436862
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E3B6C31-04C8-4473-935A-42BB07620668}
+      IID 297
+      NAME heartbeat-01-brvhrtz-225058.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCCC4F1D-0A04-4E87-BFF5-167339544BFC}
+      <SOURCE MP3
+        FILE "Media\heartbeat-01-brvhrtz-225058.mp3" 1
+      >
+    >
   >
   <TRACK {D0E4C7AD-7E17-426C-AEDA-39C238515AFC}
     NAME shotgu
@@ -1178,9 +1356,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 23 51 853 424
+      WNDRECT 23 51 962 526
       SHOW 0
-      LASTSEL 2
+      LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
@@ -1194,19 +1372,10 @@
       FXID {3EABFB60-47B0-4026-BA49-9771C3EB1F5A}
       WAK 0 0
       BYPASS 0 0 0
-      <VST "VST: ReaVerb (Cockos)" reaverb.dll 0 "" 1919252066<56535472657662726561766572620000> ""
-        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAEAAAAAABAA
-        AAAQwcybgD4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/AAAAQA==
-        AFByb2dyYW0gMQAQAAAA
-      >
-      FLOATPOS 0 0 0 0
-      FXID {CA14F309-B6C8-4BCF-A869-8634C3D13420}
-      WAK 0 0
-      BYPASS 0 0 0
       <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
         OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
         776t3g3wrd6s7u09384cQAAAAAA17P8+AACAPwAAAAAAAIA/AAAAAA==
-        AFByb2dyYW0gMQAQAAAA
+        AAAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {B1577E96-532B-4832-B57D-CFE1DEB56A41}
@@ -1396,6 +1565,50 @@
         FILE "Media\07-shotgu-250606_1702.wav"
       >
     >
+    <ITEM
+      POSITION 153.57308966689232
+      SNAPOFFS 0
+      LENGTH 0.12193716868123
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8412A74D-AD99-4FD3-8E9E-BF75E0EF0729}
+      IID 285
+      NAME bubble-pop-7-351339.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.16935717872397
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20D98707-8AC8-4858-A940-B7D1BDADA889}
+      <SOURCE MP3
+        FILE "Media\bubble-pop-7-351339.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 153.627283964084
+      SNAPOFFS 0
+      LENGTH 0.12193716868126
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {989B8BBF-B5B5-407F-9269-105F9A24587F}
+      IID 283
+      NAME bubble-pop-7-351339.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.16935717872397
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02B60587-BF5D-4FA2-A7C8-74C95A16DA5E}
+      <SOURCE MP3
+        FILE "Media\bubble-pop-7-351339.mp3" 1
+      >
+    >
   >
   <TRACK {B15E6474-9783-4753-9992-29FA03D74BD5}
     NAME "lead pipe"
@@ -1444,6 +1657,28 @@
         FILE "Media\lead-pipe-made-with-Voicemod.mp3" 1
       >
     >
+    <ITEM
+      POSITION 163.50279564842643
+      SNAPOFFS 0
+      LENGTH 2.58808584677465
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {25369374-6127-45E3-BCB0-A4344A188F51}
+      IID 4
+      NAME lead-pipe-made-with-Voicemod.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E779546A-9232-407A-B476-5B79D564057E}
+      <SOURCE MP3
+        FILE "Media\lead-pipe-made-with-Voicemod.mp3" 1
+      >
+    >
   >
   <TRACK {2F07C6C1-627B-4545-B160-E3E24BCB8C4D}
     NAME bruh
@@ -1470,6 +1705,29 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 15.13158261584786
+      SNAPOFFS 0
+      LENGTH 2.93817138171804
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE31592E-51EC-4E98-BBA7-DAE6C7D5023F}
+      IID 263
+      NAME 10-bruh-250607_1344-01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.99796225401967
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5704C2F3-3288-4D78-BE95-FDB51DDB8C72}
+      RECPASS 55
+      <SOURCE WAVE
+        FILE "Media\10-bruh-250607_1344-01.wav"
+      >
+    >
     <ITEM
       POSITION 62.77898405311018
       SNAPOFFS 0
@@ -1673,6 +1931,28 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
+      POSITION 80.35628080486683
+      SNAPOFFS 0
+      LENGTH 2.49558529281906
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 2.49558529281906 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3822FEC9-7891-4BC6-A714-86AD79DB0E40}
+      IID 280
+      NAME falling-whistle-cartoon-180579.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B76FFCF-5C24-4F65-9786-8FA462FDFF15}
+      <SOURCE MP3
+        FILE "Media\falling-whistle-cartoon-180579.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 82.74425741740798
       SNAPOFFS 0
       LENGTH 3.05739229024925
@@ -1813,6 +2093,72 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
+      POSITION 7.73777212877137
+      SNAPOFFS 0
+      LENGTH 0.98384044248983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {53572600-7E63-449F-A301-C53DBF2A1960}
+      IID 136
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.9705839174475
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65E9772B-134E-46D0-A640-B9BF46C4C3CF}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.72161257126121
+      SNAPOFFS 0
+      LENGTH 0.98384044248983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70DFDAC3-E718-4639-858F-C1792994E1E7}
+      IID 265
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.9705839174475
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A61F0385-BCC6-4A5C-ABCD-A9DDA691E752}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 9.70545301375104
+      SNAPOFFS 0
+      LENGTH 0.69134733796583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFAF9B57-1AB4-4729-9C88-FD5DB805C838}
+      IID 266
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.9705839174475
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F2645E0-8A8E-4332-B475-E69910A8DFFA}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 11.75028756710821
       SNAPOFFS 0
       LENGTH 1.03801563385946
@@ -1857,6 +2203,94 @@
       >
     >
     <ITEM
+      POSITION 19.75657969648499
+      SNAPOFFS 0
+      LENGTH 0.66475705575555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB2B689D-9F4F-454F-B7A1-9E249A29789E}
+      IID 265
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.28966730418177
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEC56D6E-C4ED-49CB-9DE0-5D742193113F}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.42133675224054
+      SNAPOFFS 0
+      LENGTH 0.98384044248983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E8823A4-2D54-479C-BA50-F9158662EA0E}
+      IID 268
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.9705839174475
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D67899A-D794-4261-AC9D-545C0D4E5A9D}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 21.40517719473037
+      SNAPOFFS 0
+      LENGTH 0.50521536234046
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EBFB5E5-84CF-416F-80BC-536D165BA564}
+      IID 269
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.9705839174475
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84F23AB0-B6B2-4E6F-91DF-BAD69EF7D628}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.8780734420505
+      SNAPOFFS 0
+      LENGTH 1.03801563385946
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {978A571E-F96F-4FD2-8A64-43DBA31B0664}
+      IID 126
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.30865282928499
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5990FE5F-6403-4985-AE3A-0EBE05F26681}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 27.76115796659897
       SNAPOFFS 0
       LENGTH 1.03801563385943
@@ -1874,6 +2308,94 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {7037A13A-7969-4603-97DF-47B11B46C17F}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.21023556372668
+      SNAPOFFS 0
+      LENGTH 1.35610439370221
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C192521-C5C8-4C09-AB1E-4760401A430D}
+      IID 272
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.76829238433114
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {277122B2-4EF5-4915-AB46-7BFDB6F3B567}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.08771487729869
+      SNAPOFFS 0
+      LENGTH 1.3561043937022
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6EBC6F6-F62C-4EA2-AE31-8FB90EC6D5F6}
+      IID 268
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.76829238433114
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBD01844-1D97-445C-B254-1E4FB2446ACA}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.9120136264118
+      SNAPOFFS 0
+      LENGTH 1.35610439370221
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE6DE389-7D09-4AE9-B13E-C403467268AA}
+      IID 273
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.76829238433114
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2A6573C-98AC-4D59-AF3A-6F0B856D9B3D}
+      <SOURCE MP3
+        FILE "Media\cartoon-sliping-and-crash.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 45.25666035453224
+      SNAPOFFS 0
+      LENGTH 1.0380156338594
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79A5B93F-C187-49C6-8595-77935E365829}
+      IID 274
+      NAME cartoon-sliping-and-crash.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.30865282928499
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3C2B62F-0E05-4C24-8008-7A2F79004D29}
       <SOURCE MP3
         FILE "Media\cartoon-sliping-and-crash.mp3" 1
       >
@@ -2189,7 +2711,7 @@
     <ITEM
       POSITION 139.15627083333334
       SNAPOFFS 0
-      LENGTH 0.91537568344876
+      LENGTH 0.7872022170514
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -2207,6 +2729,51 @@
       RECPASS 40
       <SOURCE WAVE
         FILE "Media\13-running and braking-250606_1829.wav"
+      >
+    >
+    <ITEM
+      POSITION 139.94347305038474
+      SNAPOFFS 0
+      LENGTH 0.91264564759055
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E7636C6-77AA-4BCE-8391-EF08E6AD4666}
+      IID 141
+      NAME cartoon-sound-effect-hit-the-brakes-made-with-Voicemod.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.12395720930689
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98A36A27-B2F3-493E-975A-F26C095D87D1}
+      <SOURCE MP3
+        FILE "Media\cartoon-sound-effect-hit-the-brakes-made-with-Voicemod.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 142.71288859201317
+      SNAPOFFS 0
+      LENGTH 0.33373094813393
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E55BF25-A523-4FAC-98C1-02FE29BEB7EB}
+      IID 282
+      NAME "13-running and braking-250607_1409.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.76853330132005
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCFEBA7D-50D7-4F89-B548-B978FF14A6FF}
+      RECPASS 59
+      <SOURCE WAVE
+        FILE "Media\13-running and braking-250607_1409.wav"
       >
     >
   >
