@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1749414550
+<REAPER_PROJECT 0.1 "7.35/win64" 1749412592
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 3.43576300189865 0 0
+  CURSOR 164.20826567455632
+  ZOOM 26.71850885201705 3738 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -160,7 +160,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -180,7 +180,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 3.51816040785164 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {301ACF4D-8D19-46F0-A18D-609926EA3B17}
       IID 405
       NAME "background music.wav"
@@ -208,7 +208,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -335,204 +335,6 @@
       >
     >
     <ITEM
-      POSITION 113.26200911788587
-      SNAPOFFS 0
-      LENGTH 0.21474015237425
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B70CD053-0FE1-45CB-AC8D-8D1E1F53C189}
-      IID 412
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6ED2DE26-AD8F-4581-91E6-D174F9437E6C}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 113.36937919407298
-      SNAPOFFS 0
-      LENGTH 0.21474015237425
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5BBAF879-679A-4D81-AB99-4875CB7D96CE}
-      IID 413
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {41DBE5D0-A095-4AEE-BB2C-7D4BE2709FA2}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 113.50359178930688
-      SNAPOFFS 0
-      LENGTH 0.21474015237425
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1E57E577-AC37-4721-A387-B3EE8278B818}
-      IID 414
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F87102D2-4C25-4784-8BFD-E579B3766A1C}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 119.4760522772153
-      SNAPOFFS 0
-      LENGTH 0.21474015237423
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3B6867DB-7D70-4141-BE1C-5968379B6DA6}
-      IID 413
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2475A82D-5306-460F-AA81-90DACDD3033E}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 119.69079242958954
-      SNAPOFFS 0
-      LENGTH 0.21474015237425
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {92E6F42D-BE27-4660-AD37-D2FAFC41BCF1}
-      IID 414
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2299536F-2B5F-4B07-8992-8E02F834833B}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 119.878690062917
-      SNAPOFFS 0
-      LENGTH 0.21474015237422
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {09310841-7C04-47E0-B54E-0BD4E95D8020}
-      IID 412
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {943C37F5-DC9E-4D7A-8E95-5A1EC22D06C5}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 130.7364890173393
-      SNAPOFFS 0
-      LENGTH 0.21474015237425
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B216AD7E-924F-4A44-BCBA-4CFB915EB90A}
-      IID 414
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {54645F95-C59E-454B-9AA9-DF5C12FF4E44}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 130.89754413161995
-      SNAPOFFS 0
-      LENGTH 0.21474015237425
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {21296CB5-8799-40F1-AC39-495844BD5CD4}
-      IID 413
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1F519A97-5683-4AF2-B14D-BEBAA51EC80B}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 131.03175672685384
-      SNAPOFFS 0
-      LENGTH 0.21474015237425
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {2B4AFAEA-617B-4502-B2CB-A7421F8CC085}
-      IID 412
-      NAME slide-whistle-in-out-crt057601-better-quality.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.12079133571051
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5A57DC28-0A77-430B-9ACF-F074B35AC0AB}
-      <SOURCE MP3
-        FILE "Media\slide-whistle-in-out-crt057601-better-quality.mp3" 1
-      >
-    >
-    <ITEM
       POSITION 138.70352083333333
       SNAPOFFS 0
       LENGTH 3.2313435116483
@@ -604,11 +406,11 @@
     <ITEM
       POSITION 161.74591985463053
       SNAPOFFS 0
-      LENGTH 8.93223750431656
+      LENGTH 9.10874599227307
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 2.066873966602 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {F4D0C311-3DDF-4406-8CDD-D97CF901EFF3}
