@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1749418798
+<REAPER_PROJECT 0.1 "7.35/win64" 1749414550
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 41.58100221617354
-  ZOOM 7.58519475697776 0 0
-  VZOOMEX 0.79999995 573
+  CURSOR 0
+  ZOOM 3.43576300189865 0 0
+  VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -208,7 +208,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -519,7 +519,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {2B4AFAEA-617B-4502-B2CB-A7421F8CC085}
       IID 412
       NAME slide-whistle-in-out-crt057601-better-quality.mp3
@@ -626,7 +626,7 @@
     >
   >
   <TRACK {6D47F30D-B5BC-4057-972D-B3D0E2CF04E4}
-    NAME "object hit ground"
+    NAME "pan hit ground"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -714,75 +714,6 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {1AD8FB15-F6DE-4AF0-B2CA-161314AA25EE}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "Media\04-pan hit-250606_1636.wav"
-      >
-    >
-    <ITEM
-      POSITION 14.50839365199209
-      SNAPOFFS 0
-      LENGTH 0.86076759083793
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F575FA97-05A4-4873-AFBC-D4AFE02371DF}
-      IID 12
-      NAME "04-pan hit-250606_1636.wav"
-      VOLPAN 0.758578 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E1DBCEC3-608D-4D34-8B52-F0712B4254B6}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "Media\04-pan hit-250606_1636.wav"
-      >
-    >
-    <ITEM
-      POSITION 15.33960370505229
-      SNAPOFFS 0
-      LENGTH 0.77226873498127
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {17B2F854-2B05-4ECE-9AE7-B05ED72DC3AB}
-      IID 121
-      NAME "04-pan hit-250606_1636.wav"
-      VOLPAN 0.758578 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BF59D5F3-60AE-4CE7-96F6-7C4AA0AC502A}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "Media\04-pan hit-250606_1636.wav"
-      >
-    >
-    <ITEM
-      POSITION 16.03857579496688
-      SNAPOFFS 0
-      LENGTH 0.75872016068336
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {77FDB47A-B910-4E5B-A6F2-18A1D2D7BDEB}
-      IID 122
-      NAME "04-pan hit-250606_1636.wav"
-      VOLPAN 0.758578 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1D5DCA77-95D6-442E-A459-C095E6D24987}
       RECPASS 5
       <SOURCE WAVE
         FILE "Media\04-pan hit-250606_1636.wav"
@@ -952,9 +883,31 @@
         FILE "Media\05-axe woosh-250606_1804.wav"
       >
     >
+    <ITEM
+      POSITION 93.20887275902207
+      SNAPOFFS 0
+      LENGTH 1.72995833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A2C3FE6-E408-4FF1-8438-C8432694C0A6}
+      IID 308
+      NAME tada-fanfare-a-6313.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D3CB137-980C-4987-98D0-E96F08D627E4}
+      <SOURCE MP3
+        FILE "Media\tada-fanfare-a-6313.mp3" 1
+      >
+    >
   >
   <TRACK {11E4BE5A-725A-45AE-93A8-0CBCA8DF8233}
-    NAME "object hit character"
+    NAME "pan hit dog"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -1119,6 +1072,75 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 14.50839365199209
+      SNAPOFFS 0
+      LENGTH 0.86076759083793
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F575FA97-05A4-4873-AFBC-D4AFE02371DF}
+      IID 12
+      NAME "04-pan hit-250606_1636.wav"
+      VOLPAN 0.758578 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1DBCEC3-608D-4D34-8B52-F0712B4254B6}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "Media\04-pan hit-250606_1636.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.33960370505229
+      SNAPOFFS 0
+      LENGTH 0.77226873498127
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17B2F854-2B05-4ECE-9AE7-B05ED72DC3AB}
+      IID 121
+      NAME "04-pan hit-250606_1636.wav"
+      VOLPAN 0.758578 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF59D5F3-60AE-4CE7-96F6-7C4AA0AC502A}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "Media\04-pan hit-250606_1636.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.03857579496688
+      SNAPOFFS 0
+      LENGTH 0.75872016068336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77FDB47A-B910-4E5B-A6F2-18A1D2D7BDEB}
+      IID 122
+      NAME "04-pan hit-250606_1636.wav"
+      VOLPAN 0.758578 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D5DCA77-95D6-442E-A459-C095E6D24987}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "Media\04-pan hit-250606_1636.wav"
+      >
+    >
     <ITEM
       POSITION 18.80491152597143
       SNAPOFFS 0
@@ -1507,7 +1529,7 @@
     >
   >
   <TRACK {D0E4C7AD-7E17-426C-AEDA-39C238515AFC}
-    NAME shotgun
+    NAME shotgu
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -1857,7 +1879,7 @@
     >
   >
   <TRACK {2F07C6C1-627B-4545-B160-E3E24BCB8C4D}
-    NAME "misc effects"
+    NAME bruh
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -1890,7 +1912,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {CE31592E-51EC-4E98-BBA7-DAE6C7D5023F}
       IID 263
       NAME 10-bruh-250607_1344-01.wav
@@ -2080,31 +2102,9 @@
         FILE "Media\bruh-sound-effect-2-37927.mp3" 1
       >
     >
-    <ITEM
-      POSITION 93.30819990126511
-      SNAPOFFS 0
-      LENGTH 1.72995833333333
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7A2C3FE6-E408-4FF1-8438-C8432694C0A6}
-      IID 308
-      NAME tada-fanfare-a-6313.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5D3CB137-980C-4987-98D0-E96F08D627E4}
-      <SOURCE MP3
-        FILE "Media\tada-fanfare-a-6313.mp3" 1
-      >
-    >
   >
   <TRACK {87124824-1900-437B-910A-76DEBB7DB623}
-    NAME "tom gets thrown"
+    NAME "vine boom"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2218,7 +2218,7 @@
     >
   >
   <TRACK {D00F216A-6124-47DF-B960-9DE2D022E07A}
-    NAME crash
+    NAME car-brake-and-crash
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2976,7 +2976,7 @@
     >
   >
   <TRACK {46E1AC25-1734-4A82-B9ED-CDE6D4AF69EA}
-    NAME "david dialogue"
+    NAME "pussycat dave sound"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -3273,20 +3273,20 @@
     >
   >
   <TRACK {27E3B4A2-E9AB-440B-A41C-2784DE28503D}
-    NAME bell
+    NAME taco-bell-bong-sfx-120135
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
